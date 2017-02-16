@@ -25,6 +25,7 @@ bye
 bye
 
 bye
+
 --------
 
 and you want to remove all the lines that contain hello you can run the script like this:
@@ -50,6 +51,7 @@ bye
 bye
 
 bye
+
 --------
 
 I hope this is helpful to someone because it was really helpful for me, please shoot me any comments or questions to juanjo@soyfullstack.com
